@@ -1,0 +1,3 @@
+/Users/chengjunxiao/Library/CloudStorage/OneDrive-个人/文档/大学/专业/软件工程/C课程设计/drink_wholesale_management_system/cmake-build-debug/CMakeFiles/drink_wholesale_management_system.dir
+/Users/chengjunxiao/Library/CloudStorage/OneDrive-个人/文档/大学/专业/软件工程/C课程设计/drink_wholesale_management_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chengjunxiao/Library/CloudStorage/OneDrive-个人/文档/大学/专业/软件工程/C课程设计/drink_wholesale_management_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
