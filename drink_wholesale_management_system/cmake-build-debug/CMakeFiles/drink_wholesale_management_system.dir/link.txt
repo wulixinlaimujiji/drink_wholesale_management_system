@@ -1,0 +1,3 @@
+"D:\IDE\Jetbrains\CLion\CLion 2022.3\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\drink_wholesale_management_system.dir/objects.a
+D:\IDE\JETBRA~1\CLion\CLION2~1.3\bin\mingw\bin\ar.exe qc CMakeFiles\drink_wholesale_management_system.dir/objects.a @CMakeFiles\drink_wholesale_management_system.dir\objects1.rsp
+D:\IDE\JETBRA~1\CLion\CLION2~1.3\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\drink_wholesale_management_system.dir/objects.a -Wl,--no-whole-archive -o drink_wholesale_management_system.exe -Wl,--out-implib,libdrink_wholesale_management_system.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\drink_wholesale_management_system.dir\linkLibs.rsp
