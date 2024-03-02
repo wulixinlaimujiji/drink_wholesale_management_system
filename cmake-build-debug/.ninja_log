@@ -1,0 +1,14 @@
+# ninja log v5
+0	54	7310897960556738	build.ninja	dc5ae5ef2d83ade9
+161	197	1696626988396009902	drink_wholesale_management_system	3556ddb3de3ab15b
+10	194	7310898724300030	CMakeFiles/drink_wholesale_management_system.dir/public.c.obj	6e2bacd16e819b5d
+0	195	7310898724300030	CMakeFiles/drink_wholesale_management_system.dir/main.c.obj	55e13bacbf6614a8
+4	195	7310898724320041	CMakeFiles/drink_wholesale_management_system.dir/user.c.obj	4042b5ea3390a2c9
+6	228	7310898724655683	CMakeFiles/drink_wholesale_management_system.dir/manager.c.obj	5464828ba9c5961b
+229	421	7310898726543514	drink_wholesale_management_system.exe	704b8af088e6aa0
+2	115	7310900006435329	CMakeFiles/drink_wholesale_management_system.dir/main.c.obj	55e13bacbf6614a8
+115	189	7310900007150104	drink_wholesale_management_system.exe	704b8af088e6aa0
+2	112	7310900412255030	CMakeFiles/drink_wholesale_management_system.dir/main.c.obj	55e13bacbf6614a8
+112	185	7310900412965194	drink_wholesale_management_system.exe	704b8af088e6aa0
+2	122	7310900743704953	CMakeFiles/drink_wholesale_management_system.dir/main.c.obj	55e13bacbf6614a8
+122	196	7310900744433459	drink_wholesale_management_system.exe	704b8af088e6aa0
