@@ -1,3 +1,0 @@
-E:/MyData/Document/Project/Course_Design/c/drink_wholesale_management_system/cmake-build-debug/CMakeFiles/drink_wholesale_management_system.dir
-E:/MyData/Document/Project/Course_Design/c/drink_wholesale_management_system/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/MyData/Document/Project/Course_Design/c/drink_wholesale_management_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
