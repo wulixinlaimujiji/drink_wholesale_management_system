@@ -7,20 +7,20 @@
 系统设计：详见“[system_design](https://github.com/wulixinlaimujijia/drink_wholesale_management_system/tree/e70e648017a2dc31221e9d2996598ce4e577f67d/system_design)”
 
 ## 系统概述
-### 基本结构体
-#### 管理员结构体
+### 1 基本结构体
+#### 1.1 管理员结构体
 ![image](system_design/系统概述/结构体/管理员结构体.jpg)
-#### 用户结构体
+#### 1.2 用户结构体
 ![image](system_design/系统概述/结构体/用户结构体.jpg)
-#### 酒水信息结构体
+#### 1.3 酒水信息结构体
 ![image](system_design/系统概述/结构体/酒水信息结构体.jpg)
-#### 批发记录结构体
+#### 1.4 批发记录结构体
 ![image](system_design/系统概述/结构体/批发记录结构体.jpg)
-#### 进货记录结构体
+#### 1.5 进货记录结构体
 ![image](system_design/系统概述/结构体/进货记录结构体.jpg)
 
-### 基本功能
-#### 管理员端
+### 2 基本功能
+#### 2.1 管理员端
 ![image](system_design/系统概述/基本功能/管理员端.jpg)
-#### 用户端
+#### 2.2 用户端
 ![image](system_design/系统概述/基本功能/用户端.jpg)
