@@ -21,11 +21,6 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/IDE/Jetbrains/CLion/CLion 2022.3/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeMinGWFindMake.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
 			"path" : "D:/IDE/Jetbrains/CLion/CLion 2022.3/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -305,21 +300,6 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/IDE/Jetbrains/CLion/CLion 2022.3/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeFindCodeBlocks.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "D:/IDE/Jetbrains/CLion/CLion 2022.3/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "D:/IDE/Jetbrains/CLion/CLion 2022.3/bin/cmake/win/x64/share/cmake-3.26/Modules/ProcessorCount.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
 			"path" : "D:/IDE/Jetbrains/CLion/CLion 2022.3/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -454,8 +434,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "E:/MyData/Document/Project/Course_Design/c/drink_wholesale_management_system/cmake-build-debug",
-		"source" : "E:/MyData/Document/Project/Course_Design/c/drink_wholesale_management_system"
+		"build" : "E:/MyData/Document/Project/Course_Design/C/drink_wholesale_management_system/cmake-build-debug",
+		"source" : "E:/MyData/Document/Project/Course_Design/C/drink_wholesale_management_system"
 	},
 	"version" : 
 	{

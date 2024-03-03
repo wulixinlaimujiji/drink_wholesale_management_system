@@ -1,4 +1,4 @@
-# Install script for directory: E:/MyData/Document/Project/Course_Design/c/drink_wholesale_management_system
+# Install script for directory: E:/MyData/Document/Project/Course_Design/C/drink_wholesale_management_system
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/MyData/Document/Project/Course_Design/c/drink_wholesale_management_system/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/MyData/Document/Project/Course_Design/C/drink_wholesale_management_system/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

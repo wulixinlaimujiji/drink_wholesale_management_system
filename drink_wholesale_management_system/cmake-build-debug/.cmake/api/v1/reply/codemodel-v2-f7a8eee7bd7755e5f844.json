@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/MyData/Document/Project/Course_Design/c/drink_wholesale_management_system/cmake-build-debug",
-		"source" : "E:/MyData/Document/Project/Course_Design/c/drink_wholesale_management_system"
+		"build" : "E:/MyData/Document/Project/Course_Design/C/drink_wholesale_management_system/cmake-build-debug",
+		"source" : "E:/MyData/Document/Project/Course_Design/C/drink_wholesale_management_system"
 	},
 	"version" : 
 	{
